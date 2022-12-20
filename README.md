@@ -21,8 +21,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-To run the main file to a server you have to run a command . First , open terminal to project directory then run the command " npm run build "
+To run the main file to a server you have to run a command . First , open terminal to project directory then run the command " npm run build " . Then share the build 📂📂folder any hosting server. After that app will run successfully.
 
 ### `check live app`
 
-[### 'Check Live App'](https://weatherappmaster.netlify.app/).
+Click Here To [Check Live App](https://weatherappmaster.netlify.app/).
